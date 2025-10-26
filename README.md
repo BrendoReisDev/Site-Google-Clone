@@ -26,6 +26,3 @@ O projeto tem foco em **prática de front-end**, permitindo treinar HTML, CSS e 
 * **HTML5**
 * **CSS3**
 
-
-   ```bash
-   git clone https://github.com/BrendoReisDev/Site-Google-Clone.git
